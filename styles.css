@@ -106,7 +106,7 @@ figure.main-image {
   margin-left: 20%;
   width: 60%;
   background: white;
-  border-color: teal;
+  border-color: lightskyblue;
   color: black;
 }
 
@@ -128,6 +128,12 @@ figure.section-image.even {
   margin-right: 20px;
   margin-top: 5px;
 }
+
+@media all and (min-width:768px){
+  figure.section-image{
+  margin-bottom:32px;
+  max-width: 320px;
+  }
 
 p {
   font-family: Verdana;
@@ -161,7 +167,7 @@ footer#page-footer {
 }
 
 ul.a li {
-  list-style-type: square;
+  list-style-type: circle;
   margin-left: 300px;
   font-family: Verdana;
   font-size: 16px;
