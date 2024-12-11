@@ -24,7 +24,6 @@ nav ul {
   border: 3px solid black;
   border-right: none;
   border-left: none;
-  margin-top:-25px;
 }
 
 @media all and (min-width: 440px){
