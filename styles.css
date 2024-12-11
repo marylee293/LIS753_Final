@@ -77,12 +77,6 @@ h2 {
   padding-left: 20%;
 }
 
-h3 {
-  color: darkblue;
-  padding-left: 20%;
-  font-size: 24px;
-}
-
 figure {
   width: 50%;
   border: 5px dotted lightblue;
@@ -139,14 +133,6 @@ p {
   padding-left: 20%;
   padding-right: 20%;
 }
-
-p img {
-  float: left;
-  max-width: 20%;
-  padding-right: 10px;
-  padding-top: 5px;
-}
-
 footer nav ul li a {
   color: black;
 }
