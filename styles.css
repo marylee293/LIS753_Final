@@ -4,7 +4,7 @@ body {
 
 a {
   font-weight: bold;
-  color: black;
+  color: blue;
 }
 
 h1#site-title {
@@ -69,18 +69,13 @@ h1#article-title {
 
 h2 {
   font-size: 36px;
-  color: rgb(178, 34, 34);
+  color: lightskyblue;
   font-weight: 900;
   padding-left: 20%;
 }
 
-h2#site-end {
-  padding-left: 0%;
-  text-align: center;
-  color: purple;
-}
-
 h3 {
+  color: powderblue;
   padding-left: 20%;
   font-size: 24px;
 }
@@ -134,7 +129,7 @@ figure.section-image.even {
   margin-bottom:32px;
   max-width: 320px;
   }
-
+}
 p {
   font-family: Verdana;
   font-size: 16px;
